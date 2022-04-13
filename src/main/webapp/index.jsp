@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!
-  and aws</h2>
+<h2>welcome to aws
+  and welcome to devops</h2>
 </body>
 </html>
