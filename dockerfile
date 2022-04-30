@@ -1,4 +1,3 @@
-rm -rf newimages
 mkdir -m 777 newimages
 cd newimages
 touch dockerfile
