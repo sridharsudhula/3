@@ -5,6 +5,5 @@
   <h2>welcome to docker </h2>
    <h2>hey this is latest one</h2>
   <h2>hey this is latest one</h2>
-  <h2>hey this is latest six</h2>
 </body>
 </html>
