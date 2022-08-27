@@ -8,4 +8,4 @@ RUN apt update -y
 RUN apt install software-properties-common -y
 RUN apt install git nano vim openjdk-11-jre -y
 CMD ["/opt/apache-tomcat-9.0.62", "statup.sh"]
-EXPOSE 555
+EXPOSE 8081
